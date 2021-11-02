@@ -1,9 +1,9 @@
 {
- "ip": "Your_minecraft_server_ip_here",
- "port": "Your_server_port_here",
- "name": "Your_bot_name_here",
+ "ip": "DjomlaSMP.aternos.me",
+ "port": "25565",
+ "name": "opA2",
  "auto-night-skip": "false",
- "token": "Your_discord_bot_token_here",
- "channelid": "Your_discord_server_channel_id_here",
- "loginmsg": "Your_Login_message_here"
+ "token": "ODk0ODU0MzU0MDY5MjU0MTQ1.YX7jwg.CUNTnpbMyq2mAOjo0uqpaWThwOU",
+ "channelid": "890667137105018921",
+ "loginmsg": "hi"
 }
